@@ -57,7 +57,7 @@ git checkout
 
 ## Добавление изображений
 
-
+dawdawdawxdawdawdawda YA Lubit instasamka dawdawdawdawdawdawlklklk
 
 
 ## Добавление исходного кода 
